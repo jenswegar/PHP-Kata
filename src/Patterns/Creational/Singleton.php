@@ -11,7 +11,7 @@ class Singleton{
     }
 
     public static function getInstance(){
-        if(self::$_instance === null) self::$_instance = new Singleton();
+        if(self::$_instance === null) self::$_instance = new self();
 
         return self::$_instance;
     }

@@ -9,4 +9,3 @@ class MapSiteTest extends PHPUnit_Framework_TestCase
 
     }
 }
-?>

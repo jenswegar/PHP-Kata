@@ -11,4 +11,3 @@ class WallTest extends PHPUnit_Framework_TestCase
         $this->assertFalse( $wall->enter() );
     }
 }
-?>

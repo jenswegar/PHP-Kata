@@ -25,4 +25,3 @@ class MazeTest extends PHPUnit_Framework_TestCase
 
     }
 }
-?>

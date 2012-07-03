@@ -47,4 +47,3 @@ class MazeFactoryTest extends PHPUnit_Framework_TestCase
     }
 
 }
-?>
